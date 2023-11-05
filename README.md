@@ -28,30 +28,25 @@ To run the provided notebooks and the SummPip project, make sure to install all 
 ```bash```
 pip install -r requirements.txt
 
-Compression Module
+```Compression Module```
 In the project directory, you will find ./Resources/takahe.py. This module contains functions for cluster-based compression, which is a unique feature of SummPip.
 
-Trained Model
+```Trained Model```
 A trained seq2seq model is available at the following link:
 Trained Seq2Seq Model
 
 This model can be used in conjunction with the provided notebooks to perform abstractive summarization.
 
-How to Use
+```How to Use```
 Each notebook provides documentation and examples for its specific summarization technique. Follow the instructions and code provided in the notebooks to generate summaries for your multi-document content.
 
-Contribution
+```Contribution```
 We welcome contributions from the open-source community. If you'd like to enhance the project, report issues, or suggest improvements, please feel free to do so.
 
-License
+```License```
 The SummPip project is open-source and available under a permissive license. You are encouraged to collaborate, modify, and distribute the project as needed.
 
-Acknowledgments
+```Acknowledgments```
 We extend our gratitude to the open-source community and contributors who have supported the development of SummPip. Our goal is to provide a versatile summarization tool for a wide range of use cases.
 
 For more information and details, please refer to the project's specific notebooks and documentation.
-
-kotlin
-Copy code
-
-Feel free to adjust this README.md as needed and provide more specific details
