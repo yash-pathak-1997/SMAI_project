@@ -1,0 +1,16 @@
+pip install numpy
+pip install spacy
+pip install scipy
+pip install nltk
+pip install gensim
+pip install torch
+pip install scikit-learn
+pip install rouge
+pip install prettytable
+pip install matplotlib
+pip install transformers
+pip install seaborn
+pip install contractions
+pip install tensorflow
+pip install wordcloud
+pip install collections
